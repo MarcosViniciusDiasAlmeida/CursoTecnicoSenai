@@ -1,1 +1,1 @@
-# CursoTecnicoSenai2
+Atividades realizadas na sala de aula na linguagem em c#
